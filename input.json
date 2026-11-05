@@ -1,0 +1,8 @@
+{
+  "queries": [
+    "tech-conference",
+    "design-workshop",
+    "startup-pitch"
+  ],
+  "maxEventsPerQuery": 20
+}

@@ -1,0 +1,44 @@
+[
+  {
+    "query": "tech-conference",
+    "id": "1994623085342",
+    "title": "RockIT Women 8th Annual Women in Tech (WIT) Conference",
+    "organizer": null,
+    "startDate": "2026-12-08T08:30:00",
+    "endDate": "2026-12-08T16:30:00",
+    "isOnline": false,
+    "venueName": "The Vista at Origin Park",
+    "city": "Clarksville",
+    "priceMin": null,
+    "priceMax": null,
+    "url": "https://www.eventbrite.com/e/rockit-women-8th-annual-women-in-tech-wit-conference-tickets-1994623085342"
+  },
+  {
+    "query": "tech-conference",
+    "id": "2003033170132",
+    "title": "Tech Networking Event In Philadelphia",
+    "organizer": null,
+    "startDate": "2026-11-18T18:30:00",
+    "endDate": "2026-11-18T21:00:00",
+    "isOnline": false,
+    "venueName": "Craft Hall",
+    "city": "Philadelphia",
+    "priceMin": null,
+    "priceMax": null,
+    "url": "https://www.eventbrite.com/e/tech-networking-event-in-philadelphia-tickets-2003033170132"
+  },
+  {
+    "query": "tech-conference",
+    "id": "1997051930082",
+    "title": "Tech Forum Holiday Party 2026",
+    "organizer": null,
+    "startDate": "2026-12-02T16:30:00",
+    "endDate": "2026-12-02T19:00:00",
+    "isOnline": false,
+    "venueName": "University and Whist Club",
+    "city": "Wilmington",
+    "priceMin": null,
+    "priceMax": null,
+    "url": "https://www.eventbrite.com/e/tech-forum-holiday-party-2026-tickets-1997051930082"
+  }
+]
